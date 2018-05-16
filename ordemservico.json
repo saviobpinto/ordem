@@ -1,0 +1,94 @@
+{ "ordem": [ 
+    {
+      "id": 222222,
+      "cliente": "JOSE RAIMUNDO FIGUEIREDO FILHO",
+      "endereco": "RUA RODRIGUES JUNIOR 20",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "MARIA",
+      "equipamento": "MAQUINA EURUS CUSTOM JETFLEX",
+      "tecnico": "DANIEL LUNA"
+    },
+    {
+      "id": 222223,
+      "cliente": "MARIA DAS GRACAS CARVALHO BARBOSA",
+      "endereco": "AVENIDA DOM MANUEL  1008",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "JOAO",
+      "equipamento": "DESLIZANTE",
+      "tecnico": "DANIEL LUNA"
+    },
+    {
+      "id": 222224,
+      "cliente": "SAINT SQUARE CONDOMINIO ",
+      "endereco": "RUA DONA LEOPOLDINA  480",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "CRISTIANE",
+      "equipamento": "CONDOMINIUM JET",
+      "tecnico": "DANIEL LUNA"
+    },
+    {
+      "id": 222225,
+      "cliente": "COND.ED.GOLDEN GARDEN II",
+      "endereco": "RUA DONA LEOPOLDINA  1045",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "JORGE",
+      "equipamento": "MAQUINA EURUS CUSTOM JETFLEX",
+      "tecnico": "CARLA PATRICIA"
+    },
+    {
+      "id": 222226,
+      "cliente": "COND.ED.CONTEP",
+      "endereco": "RUA RODRIGUES JUNIOR 20",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "CELIO",
+      "equipamento": "MAQUINA CONDOMINIUN JETFLEX",
+      "tecnico": "DANIEL LUNA"
+    },
+    {
+      "id": 222227,
+      "cliente": "COND.ED.REIS",
+      "endereco": "RUA NOGUEIRA ACIOLI 1415",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "CELIO",
+      "equipamento": "MAQUINA EURUS CUSTOM JETFLEX",
+      "tecnico": "CARLA PATRICIA"
+    },
+    {
+      "id": 222228,
+      "cliente": "COND.ED.ARANJUEZ",
+      "endereco": "RUA GONÇAVES LEDO 829",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "telefone1": "3226-8674",
+      "telefone2": "231-4768 ",
+      "situacao": "190",
+      "contato": "MANUEL",
+      "equipamento": "MAQUINA EURUS CUSTOM JETFLEX",
+      "tecnico": "DANIEL LUNA"
+    }
+  ]
+}
